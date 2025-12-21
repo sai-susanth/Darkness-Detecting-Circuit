@@ -1,0 +1,20 @@
+Upgrading the darkness detecting ciruit:
+
+# The core circuit is the same included recharge support and a switch to circuit
+
+Components included in this version:
+
+1. TP4056 charging module
+2. lithium ion recharageable battery -3.7V
+3. npn transistior
+4. LDR
+5. LED
+6. Resistors
+7. Push button
+
+
+Upgarded factors:
+
+1. Long battery life
+2. Support to recharge
+3. circuit is now portable, Good for real time use
